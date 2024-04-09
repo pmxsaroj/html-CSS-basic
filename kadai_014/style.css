@@ -1,0 +1,25 @@
+body {
+text-align:center;
+font-family:"Arial", "Meiryo", sans-serif;
+font-size:20px;
+}
+h1 {
+font-size:2em;
+letter-spacing:1.5em;
+font-family:// <uniquifier>: Use a unique and descriptive class name
+            // <weight>: Use a value from 100 to 700
+            .josefin-sans-<uniquifier> {
+              font-family: "Josefin Sans", sans-serif;
+            };
+            text-shadow: 1px 1px 1px blue;
+            border-bottom: solid 3px rgb(115, 115, 114);
+}
+.skyblue-color{
+color:skyblue;
+}
+.pink-color{
+color:rgb(255, 192, 203);
+}
+.i-answer{
+font-weight:bold;
+}
