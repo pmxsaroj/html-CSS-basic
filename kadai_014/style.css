@@ -6,7 +6,7 @@ font-family:"Arial", "Meiryo", sans-serif;
 font-size:20px;
 }
 h1 {
-font-size:40px;
+font-size:2em;
 letter-spacing:1.5em;
 text-shadow: 0px 1px 4px red;
 border-bottom: solid 2px RGB(115, 115, 114);
@@ -16,7 +16,7 @@ font-family:// <uniquifier>: Use a unique and descriptive class name
             .josefin-sans-<uniquifier> {
               font-family: "Josefin Sans", sans-serif;
               font-optical-sizing: auto;
-              font-weight: <weight>;
+              font-weight: normal;
               font-style: normal;
             }
 }
@@ -24,11 +24,11 @@ font-family:// <uniquifier>: Use a unique and descriptive class name
 color:skyblue;
 }
 .pink-color{
-color: RGB(255, 192, 203);
+color:rgb(255, 192, 203);
 }
 .i-answer{
 font-weight:bold;
 }
-p{
-font-weight: normal;
+p {
+font-weight: bold;
 }
