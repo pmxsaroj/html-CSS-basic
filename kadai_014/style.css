@@ -6,10 +6,11 @@ font-family:"Arial", "Meiryo", sans-serif;
 font-size:20px;
 }
 h1 {
-font-size:2em;
+font-size:2rem;
 letter-spacing:1.5em;
 text-shadow: 0px 1px 4px red;
 border-bottom: solid 2px RGB(115, 115, 114);
+font-style: normal;
 font-family:// <uniquifier>: Use a unique and descriptive class name
             // <weight>: Use a value from 100 to 700
 
@@ -17,18 +18,18 @@ font-family:// <uniquifier>: Use a unique and descriptive class name
               font-family: "Josefin Sans", sans-serif;
               font-optical-sizing: auto;
               font-weight: normal;
-              font-style: normal;
-            }
+              }
+
 }
 .skyblue-color{
 color:skyblue;
 }
 .pink-color{
-color:rgb(255, 192, 203);
+color: rgb(255, 192, 203);
 }
 .i-answer{
 font-weight:bold;
 }
-p {
+p.top-child strong {
 font-weight: bold;
 }
