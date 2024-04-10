@@ -1,35 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400&display=swap');
 body {
-text-align:center;
-font-family:"Arial", "Meiryo", sans-serif;
+text-align: center;
+font-family: "Arial", "Meiryo", sans-serif;
 }
-: root{
+: root　{
 font-size:20px;
+}
+.font-class{
+font-family: "Josefin Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: normal;
+font-style: normal;
 }
 h1 {
 font-size:2rem;
 letter-spacing:1.5em;
-text-shadow: 0px 1px 4px red;
-border-bottom: solid 2px RGB(115, 115, 114);
-font-style: normal;
-font-family:// <uniquifier>: Use a unique and descriptive class name
-            // <weight>: Use a value from 100 to 700
-
-            .josefin-sans-<uniquifier> {
-              font-family: "Josefin Sans", sans-serif;
-              font-optical-sizing: auto;
-              font-weight: normal;
-              }
-
+text-shadow: 1px 1px 2px red;
+border-bottom: solid 2px rgb(115, 115, 114);
+font-family: "Josefin Sans", sans-serif;
 }
 .skyblue-color{
-color:skyblue;
+color: sky blue;
 }
 .pink-color{
-color: rgb(255, 192, 203);
+color:rgb(255, 192, 203);
 }
 .i-answer{
-font-weight:bold;
+font-weight: bold;
 }
 p.top-child strong {
-font-weight: bold;
+font-weight:　bold;
 }
